@@ -2,6 +2,8 @@
 
 This repository contains implementations of one of CMU's algorithms labs which is accelerated using both hardware (systemVerilog/implemented for the FPGA) and software (CUDA code).
 
+The code in this repository was written by Giancarlo Zaniolo and Devdutt Nadkarni
+
 This source code accompanies our in-depth analysis, seen [here](gzaniolo.github.io/hardwareWaffle.analysis.html).
 
 Here are what the directories are for:
